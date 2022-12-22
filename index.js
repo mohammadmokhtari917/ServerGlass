@@ -4,7 +4,9 @@ const http = require('http');
 
 http.createServer((req, res) => {
 
+  var httpHandlers = { //APIs Manager
 
+  }
 
 
 
